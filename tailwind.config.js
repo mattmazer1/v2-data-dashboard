@@ -5,6 +5,7 @@ module.exports = {
 		extend: {
 			width: {
 				cardWidth: "31rem",
+				smCardWidth: "23rem",
 			},
 
 			margin: {
@@ -15,6 +16,10 @@ module.exports = {
 
 			colors: {
 				darkMode: "#262627",
+			},
+
+			fontSize: {
+				xs: "0.75rem",
 			},
 		},
 	},
